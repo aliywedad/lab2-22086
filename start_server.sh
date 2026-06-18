@@ -1,2 +1,2 @@
 #!/bin/bash
-service tomcat10 start
+service tomcat start

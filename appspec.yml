@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /output/lab2-webapp.war
-    destination: /usr/share/tomcat10/webapps
+    destination: /var/lib/tomcat/webapps
 
 hooks:
   BeforeInstall:
